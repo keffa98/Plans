@@ -12,7 +12,7 @@ A digital service to allow users to transfer en receive money using mobile money
 
 Build a website to connect recruters with students who are looking for interniship and also for their first job.
 
-## Software to help students and shools administrations to deal with administration and organization stuffs
+## Software to help students and schools administrations to deal with administration and organization stuffs
 
 Support education mission with IT solutions. Simplify administrative procedures ,  report card , plannings and also traceability of educational paths 
 
