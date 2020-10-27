@@ -6,7 +6,7 @@
 
 ## Digital Payment solution
 
-A digital service to allow users to transfer en receive money using mobile money(MTN) , moov money(MOOV) and also credit card payment.
+A digital service to allow users to transfer and receive money using mobile money(MTN) , moov money(MOOV) and also credit card payment.
 
 ## Web Portal For Recruitment 
 
